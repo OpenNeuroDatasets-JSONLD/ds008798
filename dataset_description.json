@@ -1,20 +1,21 @@
 {
-  "Name": "Disrupted functional connectivity during stroke recovery revealed via bedside optical neuroimaging dataset",
-  "BIDSVersion": "",
-  "License": "PDDL",
-  "Authors": [
-    "Karla M. Bergonzi",
-    "Broc A. Burke",
-    "Morgan Fogarty",
-    "Arefeh Sherafati",
-    "Tracy M. Burns-Yocum",
-    "Silvina L. Ferradal",
-    "Ben Julian A. Palanca",
-    "Rajat Dhar",
-    "Gyanendra Kumar",
-    "Jin-Moo Lee",
-    "Adam T. Eggebrecht",
-    "Joseph P. Culver",
-    "Adam T. Eggebrecht"
-  ]
+    "Name": "Disrupted functional connectivity during stroke recovery revealed via bedside optical neuroimaging dataset",
+    "BIDSVersion": "",
+    "License": "CC0",
+    "Authors": [
+        "Karla M. Bergonzi",
+        "Broc A. Burke",
+        "Morgan Fogarty",
+        "Arefeh Sherafati",
+        "Tracy M. Burns-Yocum",
+        "Silvina L. Ferradal",
+        "Ben Julian A. Palanca",
+        "Rajat Dhar",
+        "Gyanendra Kumar",
+        "Jin-Moo Lee",
+        "Adam T. Eggebrecht",
+        "Joseph P. Culver",
+        "Adam T. Eggebrecht"
+    ],
+    "Acknowledgements": "We wish to thank the families and patients for their time and participation. A preprint related to this work can be found at: https://doi.org/10.21203/rs.3.rs-107369/v1. This work was supported by the National Institutes of Health (K01MH103594, R01MH122751, U24NS136402 to A.T.E; U01EB027005, R01NS090874, R01EB03491902 to J.P.C.), International Anesthesiology Research Society (IMRA to B.A.B.), KL2 TR000450 (B.J.P), SPIE-Franz Hillenkamp Postdoctoral Fellowship (M.F.), and American Heart Association (26POST1562738 to M.F.)."
 }
